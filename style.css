@@ -1,0 +1,25 @@
+button{
+    background-color: #F2CF66;
+	border-bottom: 5px solid #D1B358;
+    text-shadow: 0px -2px #D1B358;
+    width: 300px;
+    position: relative;
+	padding: 10px 40px;
+    margin: 0px 10px 10px 0px;
+    float: left;
+	border-radius: 10px;
+	font-family: 'Pacifico', cursive;
+	font-size: 25px;
+	color: #FFF;
+	text-decoration: none;	
+}
+.a1{
+    width: 300px;
+    margin: 0px 10px 10px 0px;
+}
+li,ul{
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
